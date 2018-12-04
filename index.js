@@ -1,3 +1,4 @@
+const mock = require('./stubs/swapi.json');
 const { errorMsg, usageMsg } = require('./utils/logs');
 const {stdin, stdout, stderr, argv} = process
 
@@ -9,27 +10,27 @@ class JsonExplorer {
         this.input = "";
         this.filter = argv[2];
         this.usage = usageMsg;
+
+        this.main = this.main.bind(this)
     }
 
-    main(data, filter = [], skip = false) {
-        const currentKey = skip ? filter[1] : filter.shift();
-        const currentValue = skip ? data : data[currentKey];
-        const nextValue = skip ? filter[1] : filter[0];
+    main(data, filter = [], internal = false) {
+        const currentKey = internal ? filter[0] : filter.shift();
+        const nextKey = internal ? filter[1] : filter[0];
+        const currentValue = internal ? data : data[currentKey];
 
         switch (true) {
             case is.array(currentValue):
-                console.log("is.array")
-                if (nextValue) {
+                if (nextKey) {
                     return currentValue.reduce((acc, e) => {
-                        return [...acc, this.main(e[nextValue], filter, true)];
+                        return [...acc, this.main(e[nextKey], filter, true)]
                     }, []);
                 }
-                return currentValue;
+                return currentValue
                 break;
             case is.object(currentValue):
-                console.log("is.object")
-                if (nextValue) {
-                    return this.main(currentValue[nextValue], filter, true);
+                if (nextKey) {
+                    return this.main(currentValue, filter);
                 }
                 return currentValue;
                 break;
@@ -52,10 +53,17 @@ class JsonExplorer {
             if (this.input) {
                 var parsedData = JSON.parse(this.input);
                 const objFiltered = this.main(parsedData, this.filter.split('.'));
-                console.log(objFiltered)
+                console.log("ciccio",objFiltered)
             }
         })
+    }
+
+    initDev(data, filter) {
+        const objFiltered = this.main(data, filter.split('.'));
+        return objFiltered;
     }
 }
 
 new JsonExplorer().init()
+module.exports = JsonExplorer;
+//var jxplore = new JsonExplorer();
