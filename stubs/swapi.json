@@ -65,6 +65,12 @@
     "powers": {
       "physic": 20,
       "shadow": 10,
+      "jxploreKiller": [
+        {"hours": 2, "minutes": 20, "day": 23},
+        {"hours": 4, "minutes": 40, "day": 43},
+        {"hours": 6, "minutes": 60, "day": 63},
+        {"hours": 8, "minutes": 80, "day": 83}
+      ],
       "strength": {
         "mysthic": 200,
         "water": 130

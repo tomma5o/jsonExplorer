@@ -30,14 +30,14 @@ class JsonExplorer {
             case is.array(currentValue):
                 if (nextKey) {
                     return currentValue.reduce((acc, e) => {
-                        return [...acc, {[nextKey]: this.main(e[nextKey], filter, true)}]
+                        return [...acc, this.main(e[nextKey], filter, true)]
                     }, []);
                 }
                 return currentValue
                 break;
             case is.object(currentValue):
                 if (nextKey) {
-                    return {[nextKey]: this.main(currentValue[nextKey], filter, internal, true)};
+                    return this.main(currentValue[nextKey], filter, internal, true);
                 }
                 return currentValue;
                 break;
@@ -60,7 +60,7 @@ class JsonExplorer {
             if (this.input) {
                 var parsedData = JSON.parse(this.input);
                 const objFiltered = this.main(parsedData, this.filter.split('.'));
-                console.log("ciccio",objFiltered)
+                console.log(objFiltered)
             }
         })
     }
