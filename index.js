@@ -14,23 +14,30 @@ class JsonExplorer {
         this.main = this.main.bind(this)
     }
 
-    main(data, filter = [], internal = false) {
+    /**
+     * 
+     * @param {*} data 
+     * @param {} filter 
+     * @param {*} internal - When is colled inside the main
+     * @param {*} take - When the filter need to decrement but you need the data passed and not the data[currentKey]
+     */
+    main(data, filter = [], internal = false, take = false) {
         const currentKey = internal ? filter[0] : filter.shift();
         const nextKey = internal ? filter[1] : filter[0];
-        const currentValue = internal ? data : data[currentKey];
+        const currentValue = (internal || take) ? data : data[currentKey];
 
         switch (true) {
             case is.array(currentValue):
                 if (nextKey) {
                     return currentValue.reduce((acc, e) => {
-                        return [...acc, this.main(e[nextKey], filter, true)]
+                        return [...acc, {[nextKey]: this.main(e[nextKey], filter, true)}]
                     }, []);
                 }
                 return currentValue
                 break;
             case is.object(currentValue):
                 if (nextKey) {
-                    return this.main(currentValue, filter);
+                    return {[nextKey]: this.main(currentValue[nextKey], filter, internal, true)};
                 }
                 return currentValue;
                 break;

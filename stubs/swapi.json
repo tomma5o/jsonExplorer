@@ -78,6 +78,13 @@
       "https://swapi.co/api/films/7/"
     ]
   },
-  "edited": "2014-12-20T21:17:56.891000Z",
+  "edited": {
+    "when": [
+      {"hours": 2, "minutes": 20, "day": 23},
+      {"hours": 4, "minutes": 40, "day": 43},
+      {"hours": 6, "minutes": 60, "day": 63},
+      {"hours": 8, "minutes": 80, "day": 83}
+    ]
+  },
   "url": "https://swapi.co/api/people/1/"
 }
