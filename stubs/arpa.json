@@ -1,0 +1,1237 @@
+[
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6908,
+        "IdStazione": 531,
+        "Indirizzo": "via Palermo – Limito",
+        "Latitudine": 45.48363228,
+        "Longitudine": 9.32735967,
+        "NomeTabella": "PM10",
+        "Provincia": "MI",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Limito di Pioltello ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 76,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0101)\/",
+        "IdSensore": 6910,
+        "IdStazione": 542,
+        "Indirizzo": "via Gagarin",
+        "Latitudine": 45.66099200,
+        "Longitudine": 9.16022500,
+        "NomeTabella": "PM10",
+        "Provincia": "MB",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Meda ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 77,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6912,
+        "IdStazione": 546,
+        "Indirizzo": "via F. Turati",
+        "Latitudine": 45.46242083,
+        "Longitudine": 8.88021392,
+        "NomeTabella": "PM10",
+        "Provincia": "MI",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Magenta ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 76,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6915,
+        "IdStazione": 554,
+        "Indirizzo": "via Santuario",
+        "Latitudine": 45.62610400,
+        "Longitudine": 9.02500400,
+        "NomeTabella": "PM10",
+        "Provincia": "VA",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Saronno Santuario",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 83,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6917,
+        "IdStazione": 558,
+        "Indirizzo": "via Novara -  ACCAM",
+        "Latitudine": 45.58288714,
+        "Longitudine": 8.83449244,
+        "NomeTabella": "PM10",
+        "Provincia": "VA",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Busto Arsizio Accam",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 69,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6918,
+        "IdStazione": 560,
+        "Indirizzo": "Via Copelli",
+        "Latitudine": 45.81697450,
+        "Longitudine": 8.82024911,
+        "NomeTabella": "PM10",
+        "Provincia": "VA",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Varese Copelli",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 68,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6919,
+        "IdStazione": 561,
+        "Indirizzo": "via Cattaneo",
+        "Latitudine": 45.81504217,
+        "Longitudine": 9.06697886,
+        "NomeTabella": "PM10",
+        "Provincia": "CO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Como Centro",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 85,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6921,
+        "IdStazione": 564,
+        "Indirizzo": "via Battisti",
+        "Latitudine": 45.80857380,
+        "Longitudine": 9.22177920,
+        "NomeTabella": "PM10",
+        "Provincia": "CO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Erba ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 68,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6925,
+        "IdStazione": 571,
+        "Indirizzo": "via Monte Braulio",
+        "Latitudine": 46.46618000,
+        "Longitudine": 10.37058900,
+        "NomeTabella": "PM10",
+        "Provincia": "SO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Bormio ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 20,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6926,
+        "IdStazione": 572,
+        "Indirizzo": "via Cortivacci",
+        "Latitudine": 46.13548600,
+        "Longitudine": 9.56624000,
+        "NomeTabella": "PM10",
+        "Provincia": "SO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Morbegno ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 46,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6927,
+        "IdStazione": 574,
+        "Indirizzo": "via Amendola",
+        "Latitudine": 45.85019631,
+        "Longitudine": 9.39558125,
+        "NomeTabella": "PM10",
+        "Provincia": "LC",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Lecco Via Amendola",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 72,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6929,
+        "IdStazione": 576,
+        "Indirizzo": "via Madonna di Loreto",
+        "Latitudine": 45.69795956,
+        "Longitudine": 9.40619194,
+        "NomeTabella": "PM10",
+        "Provincia": "LC",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Merate ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 78,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6931,
+        "IdStazione": 583,
+        "Indirizzo": "v.Meucci",
+        "Latitudine": 45.69104400,
+        "Longitudine": 9.64366225,
+        "NomeTabella": "PM10",
+        "Provincia": "BG",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Bergamo Via Meucci",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 70,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6935,
+        "IdStazione": 592,
+        "Indirizzo": "p.zza Insurrezione",
+        "Latitudine": 45.51933533,
+        "Longitudine": 9.59201917,
+        "NomeTabella": "PM10",
+        "Provincia": "BG",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Treviglio ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 83,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6936,
+        "IdStazione": 596,
+        "Indirizzo": "via per levante 40",
+        "Latitudine": 45.62055568,
+        "Longitudine": 9.61173782,
+        "NomeTabella": "PM10",
+        "Provincia": "BG",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Osio Sotto ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 67,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6939,
+        "IdStazione": 600,
+        "Indirizzo": "viale Vignati",
+        "Latitudine": 45.30601628,
+        "Longitudine": 9.48527511,
+        "NomeTabella": "PM10",
+        "Provincia": "LO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Lodi via Vignati",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 109,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6945,
+        "IdStazione": 633,
+        "Indirizzo": "via Landriani\/via Piave",
+        "Latitudine": 45.28398000,
+        "Longitudine": 9.86340258,
+        "NomeTabella": "PM10",
+        "Provincia": "CR",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Soresina ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 82,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6947,
+        "IdStazione": 643,
+        "Indirizzo": "p.zza Minerva",
+        "Latitudine": 45.18633544,
+        "Longitudine": 9.14667703,
+        "NomeTabella": "PM10",
+        "Provincia": "PV",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Pavia Minerva",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 0,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6951,
+        "IdStazione": 649,
+        "Indirizzo": "P.zza Belfiore\/v.Broletto",
+        "Latitudine": 45.54006456,
+        "Longitudine": 10.22281989,
+        "NomeTabella": "PM10",
+        "Provincia": "BS",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Brescia Broletto",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 64,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6952,
+        "IdStazione": 654,
+        "Indirizzo": "via Minelli",
+        "Latitudine": 45.64962671,
+        "Longitudine": 10.20509022,
+        "NomeTabella": "PM10",
+        "Provincia": "BS",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Sarezzo ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 64,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6953,
+        "IdStazione": 659,
+        "Indirizzo": "via Praes",
+        "Latitudine": 45.64605175,
+        "Longitudine": 10.38929672,
+        "NomeTabella": "PM10",
+        "Provincia": "BS",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Odolo ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 59,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6954,
+        "IdStazione": 661,
+        "Indirizzo": "via A.De Gasperi",
+        "Latitudine": 45.51571417,
+        "Longitudine": 10.33624003,
+        "NomeTabella": "PM10",
+        "Provincia": "BS",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Rezzato ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 68,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6955,
+        "IdStazione": 663,
+        "Indirizzo": "Via Ariosto",
+        "Latitudine": 45.14526864,
+        "Longitudine": 10.80333489,
+        "NomeTabella": "PM10",
+        "Provincia": "MN",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Mantova Ariosto",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 66,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6956,
+        "IdStazione": 528,
+        "Indirizzo": "Largo dei Bersaglieri – Verziere",
+        "Latitudine": 45.46334886,
+        "Longitudine": 9.19532511,
+        "NomeTabella": "PM10",
+        "Provincia": "MI",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Milano Verziere",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 71,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6958,
+        "IdStazione": 569,
+        "Indirizzo": "Via Mazzini",
+        "Latitudine": 46.16797103,
+        "Longitudine": 9.87014581,
+        "NomeTabella": "PM10",
+        "Provincia": "SO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Sondrio via Mazzini",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 46,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6959,
+        "IdStazione": 565,
+        "Indirizzo": "Via Meucci",
+        "Latitudine": 45.73083728,
+        "Longitudine": 9.12573936,
+        "NomeTabella": "PM10",
+        "Provincia": "CO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Cantu ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 73,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 6962,
+        "IdStazione": 595,
+        "Indirizzo": "via Don Milani",
+        "Latitudine": 45.63387247,
+        "Longitudine": 9.55609572,
+        "NomeTabella": "PM10",
+        "Provincia": "BG",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Filago Centro ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 76,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9739,
+        "IdStazione": 608,
+        "Indirizzo": "Via Trento",
+        "Latitudine": 45.15937678,
+        "Longitudine": 9.69815314,
+        "NomeTabella": "PM10",
+        "Provincia": "LO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Codogno ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 88,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9740,
+        "IdStazione": 604,
+        "Indirizzo": "Via Cascina Bagnolo",
+        "Latitudine": 45.33036444,
+        "Longitudine": 9.41464375,
+        "NomeTabella": "PM10",
+        "Provincia": "LO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Tavazzano ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 90,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9831,
+        "IdStazione": 670,
+        "Indirizzo": "p.zza semimario 3 c\/o scuola Alberti",
+        "Latitudine": 45.16057658,
+        "Longitudine": 10.79557331,
+        "NomeTabella": "PM10",
+        "Provincia": "MN",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Mantova S.Agnese",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 64,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9835,
+        "IdStazione": 664,
+        "Indirizzo": "p.zza Gramsci",
+        "Latitudine": 45.15175186,
+        "Longitudine": 10.78141717,
+        "NomeTabella": "PM10",
+        "Provincia": "MN",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Mantova Gramsci",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 65,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9872,
+        "IdStazione": 673,
+        "Indirizzo": "Via Pozzoni – c\\o ASM ",
+        "Latitudine": 44.99955481,
+        "Longitudine": 9.00844961,
+        "NomeTabella": "PM10",
+        "Provincia": "PV",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Voghera  Pozzoni",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 67,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9890,
+        "IdStazione": 674,
+        "Indirizzo": "via Machiavelli",
+        "Latitudine": 45.57411700,
+        "Longitudine": 9.26380800,
+        "NomeTabella": "PM10",
+        "Provincia": "MB",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Monza Machiavelli",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 75,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9927,
+        "IdStazione": 677,
+        "Indirizzo": "Via Fatebenefratelli 2\/a",
+        "Latitudine": 45.14254358,
+        "Longitudine": 10.04384767,
+        "NomeTabella": "PM10",
+        "Provincia": "CR",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Cremona Fatebenefratelli",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 81,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9961,
+        "IdStazione": 669,
+        "Indirizzo": "Villaggio Sereno",
+        "Latitudine": 45.51306214,
+        "Longitudine": 10.19190606,
+        "NomeTabella": "PM10",
+        "Provincia": "BS",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Brescia Villaggio Sereno",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 72,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9965,
+        "IdStazione": 609,
+        "Indirizzo": "via Cimitero",
+        "Latitudine": 45.49822794,
+        "Longitudine": 9.55624181,
+        "NomeTabella": "PM10",
+        "Provincia": "BG",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Casirate d`Adda ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 0,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 9976,
+        "IdStazione": 679,
+        "Indirizzo": "Via Monsignor Pozzi",
+        "Latitudine": 45.84221272,
+        "Longitudine": 9.35166247,
+        "NomeTabella": "PM10",
+        "Provincia": "LC",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Valmadrera ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 73,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10027,
+        "IdStazione": 685,
+        "Indirizzo": "via Caduti sul Lavoro",
+        "Latitudine": 45.69043647,
+        "Longitudine": 9.48426111,
+        "NomeTabella": "PM10",
+        "Provincia": "BG",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Calusco ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 72,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10043,
+        "IdStazione": 687,
+        "Indirizzo": "via Alfredo Di Dio",
+        "Latitudine": 45.61924753,
+        "Longitudine": 8.75697656,
+        "NomeTabella": "PM10",
+        "Provincia": "VA",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Ferno ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 77,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10072,
+        "IdStazione": 693,
+        "Indirizzo": "Via Traversi",
+        "Latitudine": 45.10277464,
+        "Longitudine": 8.90418742,
+        "NomeTabella": "PM10",
+        "Provincia": "PV",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Sannazzaro de Burgondi ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 61,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10083,
+        "IdStazione": 695,
+        "Indirizzo": "Via San Martino e Solferino",
+        "Latitudine": 45.41277633,
+        "Longitudine": 10.68336214,
+        "NomeTabella": "PM10",
+        "Provincia": "MN",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Ponti sul Mincio ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 60,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10103,
+        "IdStazione": 697,
+        "Indirizzo": "Bonizzo",
+        "Latitudine": 45.04650286,
+        "Longitudine": 11.18094889,
+        "NomeTabella": "PM10",
+        "Provincia": "MN",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Borgofranco ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 71,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10173,
+        "IdStazione": 703,
+        "Indirizzo": "Via Malpasso",
+        "Latitudine": 45.01688067,
+        "Longitudine": 11.07609728,
+        "NomeTabella": "PM10",
+        "Provincia": "MN",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Schivenoglia ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 69,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10273,
+        "IdStazione": 705,
+        "Indirizzo": "via Ponzio 34\/6 – Pascal Città Studi",
+        "Latitudine": 45.47834700,
+        "Longitudine": 9.23166700,
+        "NomeTabella": "PM10",
+        "Provincia": "MI",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Milano Pascal Città Studi",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 71,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10290,
+        "IdStazione": 706,
+        "Indirizzo": "via Sora",
+        "Latitudine": 45.86375372,
+        "Longitudine": 9.39995481,
+        "NomeTabella": "PM10",
+        "Provincia": "LC",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Lecco Via Sora",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 58,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10320,
+        "IdStazione": 548,
+        "Indirizzo": "via Senato",
+        "Latitudine": 45.47050100,
+        "Longitudine": 9.19746075,
+        "NomeTabella": "PM10",
+        "Provincia": "MI",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Milano Senato",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 77,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10335,
+        "IdStazione": 709,
+        "Indirizzo": "via Valletta Fogliano 70",
+        "Latitudine": 45.30361483,
+        "Longitudine": 8.84480578,
+        "NomeTabella": "PM10",
+        "Provincia": "PV",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Vigevano Valletta",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 73,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10339,
+        "IdStazione": 629,
+        "Indirizzo": "via XI febbraio",
+        "Latitudine": 45.36631075,
+        "Longitudine": 9.70395139,
+        "NomeTabella": "PM10",
+        "Provincia": "CR",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Crema XI febbraio",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 97,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10343,
+        "IdStazione": 708,
+        "Indirizzo": "Via della Miseria 3",
+        "Latitudine": 45.28194289,
+        "Longitudine": 8.75433614,
+        "NomeTabella": "PM10",
+        "Provincia": "PV",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Parona ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 73,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10352,
+        "IdStazione": 517,
+        "Indirizzo": "vicolo dello Sport",
+        "Latitudine": 45.52655611,
+        "Longitudine": 8.73650211,
+        "NomeTabella": "PM10",
+        "Provincia": "MI",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Turbigo ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 74,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10405,
+        "IdStazione": 584,
+        "Indirizzo": "v.Garibaldi",
+        "Latitudine": 45.69568669,
+        "Longitudine": 9.66126061,
+        "NomeTabella": "PM10",
+        "Provincia": "BG",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Bergamo Via Garibaldi",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 70,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10483,
+        "IdStazione": 1265,
+        "Indirizzo": "Via Vittime della violenza – S.Alberto",
+        "Latitudine": 45.30278678,
+        "Longitudine": 9.49528589,
+        "NomeTabella": "PM10",
+        "Provincia": "LO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Lodi S. Alberto",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 76,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10484,
+        "IdStazione": 1266,
+        "Indirizzo": "Via Aldo Moro",
+        "Latitudine": 45.23349689,
+        "Longitudine": 9.66625758,
+        "NomeTabella": "PM10",
+        "Provincia": "LO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Bertonico ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 78,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10491,
+        "IdStazione": 681,
+        "Indirizzo": "Loc. Penscei",
+        "Latitudine": 45.91279097,
+        "Longitudine": 9.49754261,
+        "NomeTabella": "PM10",
+        "Provincia": "LC",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Moggio ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 14,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10501,
+        "IdStazione": 655,
+        "Indirizzo": "via De Amicis c\/o asilo nido",
+        "Latitudine": 45.87460256,
+        "Longitudine": 10.17736553,
+        "NomeTabella": "PM10",
+        "Provincia": "BS",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Darfo ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 71,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 10548,
+        "IdStazione": 1269,
+        "Indirizzo": "Via Verdi",
+        "Latitudine": 45.64971000,
+        "Longitudine": 9.60123469,
+        "NomeTabella": "PM10",
+        "Provincia": "BG",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Dalmine via Verdi",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 69,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 12028,
+        "IdStazione": 642,
+        "Indirizzo": "via Folperti",
+        "Latitudine": 45.19468231,
+        "Longitudine": 9.16464919,
+        "NomeTabella": "PM10",
+        "Provincia": "PV",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Pavia Folperti",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 66,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 12531,
+        "IdStazione": 1297,
+        "Indirizzo": "Via Cesare Battisti 1",
+        "Latitudine": 45.15047339,
+        "Longitudine": 9.93059842,
+        "NomeTabella": "PM10",
+        "Provincia": "CR",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Spinadesco ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 81,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 12584,
+        "IdStazione": 627,
+        "Indirizzo": "p.zza Cadorna",
+        "Latitudine": 45.13195042,
+        "Longitudine": 10.01574064,
+        "NomeTabella": "PM10",
+        "Provincia": "CR",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Cremona Cadorna",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 80,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 17290,
+        "IdStazione": 1374,
+        "Indirizzo": "Parco di Monza – via Mirabellino",
+        "Latitudine": 45.60307200,
+        "Longitudine": 9.27615600,
+        "NomeTabella": "PM10",
+        "Provincia": "MB",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Monza Parco ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 72,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 17293,
+        "IdStazione": 1264,
+        "Indirizzo": "Via Paribelli",
+        "Latitudine": 46.16785664,
+        "Longitudine": 9.87921169,
+        "NomeTabella": "PM10",
+        "Provincia": "SO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Sondrio via Paribelli",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 51,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 20155,
+        "IdStazione": 690,
+        "Indirizzo": "loc.Casoni Borroni -  Mezzana Bigli AGIP",
+        "Latitudine": 45.06966728,
+        "Longitudine": 8.86890217,
+        "NomeTabella": "PM10",
+        "Provincia": "PV",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Casoni Borroni ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 66,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 20197,
+        "IdStazione": 598,
+        "Indirizzo": "via Matteotti",
+        "Latitudine": 45.08199189,
+        "Longitudine": 9.70079278,
+        "NomeTabella": "PM10",
+        "Provincia": "LO",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "S. Rocco al Porto ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 73,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 20428,
+        "IdStazione": 683,
+        "Indirizzo": "via Milano",
+        "Latitudine": 45.52647322,
+        "Longitudine": 9.51599100,
+        "NomeTabella": "PM10",
+        "Provincia": "MI",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Cassano d`Adda 2 ",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 81,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    },
+    {
+        "Data": "\/Date(1544914800000+0100)\/",
+        "IdSensore": 20429,
+        "IdStazione": 501,
+        "Indirizzo": "viale Marche",
+        "Latitudine": 45.49631883,
+        "Longitudine": 9.19093444,
+        "NomeTabella": "PM10",
+        "Provincia": "MI",
+        "Stato": {
+            "sup": 1000,
+            "inf": 5000
+        },
+        "Stazione": "Milano Marche",
+        "UnitaMisura": "µg\/m³",
+        "Valore": 78,
+        "ValoreSoglia": 2.00,
+        "idOperatore": 1
+    }
+]

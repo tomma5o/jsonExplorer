@@ -1,6 +1,15 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.0.35] - 2018-12-23
+
+### Added
+- Blessed for a terminal visual interface
+- Arpa stub
+
+### Fixed
+- Add logic when JSON starts with an array of elements
+
 ## [0.0.3] - 2018-12-05
 <!-- ### Added -->
 

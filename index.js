@@ -24,7 +24,7 @@ class JsonExplorer {
     main(data, filter = [], internal = false, take = false) {
         const currentKey = internal ? filter[0] : filter.shift();
         const nextKey = internal ? filter[1] : filter[0];
-        const currentValue = (internal || take) ? data : data[currentKey];
+        const currentValue = (internal || take || is.array(data)) ? data : data[currentKey];
 
         switch (true) {
             case is.array(currentValue):
@@ -60,7 +60,7 @@ class JsonExplorer {
             if (this.input) {
                 var parsedData = JSON.parse(this.input);
                 const objFiltered = this.main(parsedData, this.filter.split('.'));
-                console.log(objFiltered)
+                return objFiltered;
             }
         })
     }
@@ -71,6 +71,6 @@ class JsonExplorer {
     }
 }
 
-new JsonExplorer().init()
+// new JsonExplorer().init()
 module.exports = JsonExplorer;
-//var jxplore = new JsonExplorer();
+// var jxplore = new JsonExplorer();
